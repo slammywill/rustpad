@@ -1,0 +1,8 @@
+[package]
+name = "rustpad"
+version = "0.1.0"
+authors = ["Sam Willems"]
+edition = "2021"
+
+[dependencies]
+midir = "0.10.1"
