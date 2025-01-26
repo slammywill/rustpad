@@ -3,4 +3,8 @@ Rustpad plans to be an application that will allow the Novation Launchpad X to b
 using user-defined scripts (embedded Lua?), acting as a macropad. GUI support and pre-defined
 macro options are also planned.
 
+## TODO
+- [ ] Capture input from device
+- [ ] 
+
 
