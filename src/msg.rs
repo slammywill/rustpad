@@ -1,7 +1,0 @@
-use crate::types::DeviceMode;
-
-pub fn set_mode_msg(mode: DeviceMode) -> [u8; 9] {
-    [0xF0, 0x0, 0x20, 0x29, 0x2, 0xC, 0x0, mode as u8, 0x7F]
-}
-
-
